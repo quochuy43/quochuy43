@@ -40,7 +40,6 @@
 <h3 align="left">🔥 My Stats :</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=quochuy43&show_icons=true&locale=en" alt="quochuy43" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quochuy43&" alt="quochuy43" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=quochuy43&show_icons=true&locale=en&layout=compact" alt="quochuy43" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quochuy43" alt="quochuy43" /></a></p>
 
 ###
